@@ -1,13 +1,10 @@
-
-<img style="float: right; width: 300px" src="anaveg2022_logo.jpg">
-
 # #AnaVeg2022: Analysis of vegetation ecology data in R: ordination, clustering, diversity and traits
 ### An online workshop organized by the IAVS Young Scientists Working Group  
 
 &nbsp;
 
-**Instructors:** David Zelený & Sergey Rosbakh  
-**Assistant:** Po-Yu Lin 林柏佑
+**Instructors:** David Zelený (zeleny@ntu.edu.tw) & Sergey Rosbakh  
+**Technical Assistant:** Po-Yu Lin 林柏佑
 
 **Dates:** April 2022 (five Saturdays, each lecture 3-hours long, 11:00-14:00 UTC - [check time at your location](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AnaVeg2022&iso=20220402T11&p1=1440&ah=3))
 
@@ -18,7 +15,7 @@ This online workshop focuses on commonly used methods for the analysis of vegeta
 
 Active attendees who succeeded to complete the course (with score > 70%) will obtain a Course Certificate issued by the IAVS and signed by instructors.
 
-This is a paid online workshop for both IAVS members and non-members (see below for details about the registration fee). Maximum capacity is 30 participants. We offer registration waivers for those in financial need; to apply for waiver, please fill the **_Request for registration waiver form_** (up to 10 waivers are available). The budget collected from the registration fees will be used to cover the salary for the Assistant, and the rest will be used for activities of the IAVS Young Scientists Working Group.
+This is a paid online workshop for both IAVS members and non-members (see below for details about the registration fee). Maximum capacity is 30 participants. We offer registration waivers for those in financial need; to apply for waiver, please fill the **_Request for registration waiver form_** (up to 10 waivers are available). The budget collected from the registration fees will be used to cover the salary for the Technical Assistant, and the rest will be used for activities of the IAVS Young Scientists Working Group.
 
 ### Location
 Online, using the Zoom platform. The link will be shared with registered participants.
