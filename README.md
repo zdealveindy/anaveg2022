@@ -1,14 +1,14 @@
 # #AnaVeg2022: Analysis of vegetation ecology data in R: ordination, clustering, diversity and traits
 ### An online workshop organized by the IAVS Young Scientists Working Group  
 
-\ 
+&nbsp;
 
 **Instructors:** David Zelený & Sergey Rosbakh  
 **Assistant:** Po-Yu Lin 林柏佑
 
 **Dates:** April 2022 (five Saturdays, each lecture 3-hours long, 11:00-14:00 UTC - [check time at your location](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AnaVeg2022&iso=20220402T11&p1=1440&ah=3))
 
-\ 
+&nbsp;
 
 ### Workshop overview
 This online workshop focuses on commonly used methods for the analysis of vegetation data, including ordination, classification, analysis of diversity and traits. We will provide brief theoretical background, demonstrate how to use these methods in R, how to read the R output and correctly interpret it, what are the common mistakes and how to avoid them. We will combine brief theoretical parts, which will introduce the concept behind each method, with practical examples using real vegetation datasets. All course materials will be available online. Lectures will be provided live on Zoom, with possibility for direct interactions between lecturers and participants. Each lecture will be also recorded, and the recording will be available to registered participants for further review.
