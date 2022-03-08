@@ -1,7 +1,7 @@
 # #AnaVeg2022: Analysis of vegetation ecology data in R: ordination, clustering, diversity and traits
 ### An online workshop organized by the IAVS Young Scientists Working Group  
 
-\
+\ 
 
 **Instructors:** David Zelený & Sergey Rosbakh  
 **Assistant:** Po-Yu Lin 林柏佑
