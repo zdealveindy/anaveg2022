@@ -3,7 +3,7 @@
 
 &nbsp;
 
-**Instructors:** David Zelený (zeleny@ntu.edu.tw) & Sergey Rosbakh  
+**Instructors:** David Zelený & Sergey Rosbakh  
 **Technical Assistant:** Po-Yu Lin 林柏佑
 
 **Dates:** April 2022 (five Saturdays, each lecture 3-hours long, 11:00-14:00 UTC - [check time at your location](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AnaVeg2022&iso=20220402T11&p1=1440&ah=3))
@@ -15,13 +15,13 @@ This online workshop focuses on commonly used methods for the analysis of vegeta
 
 Active attendees who succeeded to complete the course (with score > 70%) will obtain a Course Certificate issued by the IAVS and signed by instructors.
 
-This is a paid online workshop for both IAVS members and non-members (see below for details about the registration fee). Maximum capacity is 30 participants. We offer registration waivers for those in financial need; to apply for waiver, please fill the **_Request for registration waiver form_** (up to 10 waivers are available). The budget collected from the registration fees will be used to cover the salary for the Technical Assistant, and the rest will be used for activities of the IAVS Young Scientists Working Group.
+This is a paid online workshop for both IAVS members and non-members (see below for details about the registration fee). Maximum capacity is 30 participants. We offer registration waivers for those in financial need; to apply for waiver, please fill the [Request for registration waiver form](https://forms.gle/CySyCEbAvitkkzGg6) (up to 10 waivers are available, only for IAVS members). The budget collected from the registration fees will be used to cover the salary for the Technical Assistant, and the rest will be used for activities of the IAVS Young Scientists Working Group.
 
 ### Location
 Online, using the Zoom platform. The link will be shared with registered participants.
 
 ### Important dates
-- Application requesting registration waiver: March 18, 2022 (fill the _Request for registration waiver form_)
+- Application requesting registration waiver: March 18, 2022 (fill the [Request for registration waiver form](https://forms.gle/CySyCEbAvitkkzGg6), available only for IAVS members)
 - Opening of workshop registration: March 21, 2022, 11:00 UTC (**link will be available here**)
 - Closing of workshop registration: on full capacity (30 seats, first come first served)
 
@@ -41,7 +41,7 @@ Computer with installed R and RStudio, stable internet connection, headset and w
 
 Before the course, please make sure that your computer has installed the latest version of R (version 4.1.2 or newer, installed from https://cran.rstudio.com/) and RStudio (2021.09.2, build 382 or newer, installed from https://www.rstudio.com/products/rstudio/download/). Check [here](https://anadat-r.davidzeleny.net/doku.php/en:r) for more details.
 
-We expect you have basic skills in using the R programme, i.e. you know how to import libraries and data, create an object, subset object, create a loop and plot simple figures. If you are not familiar with R, we strongly suggest you complete [Quick R Introduction](https://www.davidzeleny.net/wiki/doku.php/quickr:start)** minilectures before this workshop starts. 
+We expect you have basic skills in using the R programme, i.e. you know how to import libraries and data, create an object, subset object, create a loop and plot simple figures. If you are not familiar with R, we strongly suggest you complete [Quick R Introduction](https://www.davidzeleny.net/wiki/doku.php/quickr:start)** mini lectures before this workshop starts. 
 
 ### Preliminary programme
 The workshop consists of five lecture blocks during April's Saturdays, each 3 hours long, with two 10-min breaks each. After each class, participants will get a homework assignment, with a deadline before the next class. We will also offer "Zoom office hours" for discussion with individual participants.
@@ -54,3 +54,9 @@ April 16, 11-14 UTC    |Cluster analysis, case studies (TWINSPAN, hclust, fideli
 April 23, 11-14 UTC    |Analysis of diversity (diversity indices, rarefaction using iNEXT package  |David Zelený
 April 30, 11-14 UTC    |                                                                           |Sergey Rosbakh
 
+### Contacts
+David Zelený (lecturer): zeleny@ntu.edu.tw, @zdealveindy
+
+Sergey Rosbakh (lecturer): xxx
+
+Po-Yu Lin (technical assistant): flutter925517@gmail.com
