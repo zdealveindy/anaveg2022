@@ -1,3 +1,6 @@
+
+<img style="float: right; width: 300px" src="anaveg2022_logo.jpg">
+
 # #AnaVeg2022: Analysis of vegetation ecology data in R: ordination, clustering, diversity and traits
 ### An online workshop organized by the IAVS Young Scientists Working Group  
 
