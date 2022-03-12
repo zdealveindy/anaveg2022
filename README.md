@@ -24,9 +24,10 @@ This is a paid online workshop for both IAVS members and non-members (see below 
 Online, using the Zoom platform. The link will be shared with registered participants.
 
 ### Important dates
-- Application requesting registration waiver: March 18, 2022 (fill the [Request for registration waiver form](https://forms.gle/CySyCEbAvitkkzGg6), available only for IAVS members)
+- Application request for registration waiver: March 18, 2022 (fill the [Request for registration waiver form](https://forms.gle/CySyCEbAvitkkzGg6), available only for IAVS members)
 - Opening of workshop registration: March 21, 2022, 11:00 UTC (**link will be available here**)
 - Closing of workshop registration: on full capacity (30 seats, first come first served)
+- start of workshop (first lecture): April 2, 2022, 11:00 UTC (Zoom link will be in the email confirming successful registration)
 
 ### Registration fee
 - IAVS members - 30 USD
