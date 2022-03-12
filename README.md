@@ -25,7 +25,7 @@ Online, using the Zoom platform. The link will be shared with registered partici
 
 ### Important dates
 - Application request for registration waiver: March 18, 2022 (fill the [Request for registration waiver form](https://forms.gle/CySyCEbAvitkkzGg6), available only for IAVS members)
-- Opening of workshop registration: March 21, 2022, 11:00 UTC (**link will be available here**)
+- Opening of workshop registration: March 21, 2022, 11:00 UTC, using the registration link on the IAVS website (https://www.iavs.org/event/anaveg2022; the link will be active after March 21, 11:UTC)
 - Closing of workshop registration: on full capacity (30 seats, first come first served)
 - start of workshop (first lecture): April 2, 2022, 11:00 UTC (Zoom link will be in the email confirming successful registration)
 
