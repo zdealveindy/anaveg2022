@@ -33,11 +33,11 @@ Online, using the Zoom platform. The link will be shared with registered partici
 - IAVS members - 30 USD
 - others - 70 USD
 
-Payment of the registration fee needs to be done by credit card during the registration (after March 21); if you wish to apply for registration waiver, make sure to submit the *Request for registration waiver form* (before March 18). If you need to request bank transfer payment, please contact us in advance for arrangement. 
+Payment of the registration fee needs to be done by credit card during the registration (after March 21); if you wish to apply for registration waiver, make sure to submit the *Request for registration waiver form* (before March 18, you must be IAVS member). If you need to request bank transfer payment, please contact us in advance for arrangement. 
 
 If you are not an IAVS member, please consider joining IAVS to obtain cheaper registration fee. Annual membership fee is 35 USD for regular members and 20 USD for students, with possible discounts and waivers for applicants with financial difficulties. IAVS membership brings further benefits, such as discounted registration fees for annual symposium, networking possibilities, publication discounts etc. More details on the [IAVS website](https://www.iavs.org/page/JoinIAVS).
 
-If you are an IAVS member, when registering, you will be requested to log in into the https://iavs.org to obtain discounted registration fee for IAVS members. Please, make sure that you have your log-in credentials and that your membership is renewed. Best if you try to log in in advance here: https://www.iavs.org/login.aspx
+If you are an IAVS member, when registering, you will be requested to log in into the https://iavs.org to obtain discounted registration fee for IAVS members. Please, make sure that you have your log-in credentials and that your membership is renewed. Best if you try to log in in advance here to ensure your loging credentials work: https://www.iavs.org/login.aspx
 
 
 ### What to prepare
@@ -59,8 +59,6 @@ April 23, 11-14 UTC    |Analysis of diversity (diversity indices, rarefaction an
 April 30, 11-14 UTC    |Functional trait analysis in vegetation ecology (PCA and pPCA on trait matrix, considering trait data in ordination (CCA and RDA) and estimating trait-environment relationships (RLQ, fourth corner).                                                                           |Sergey Rosbakh
 
 ### Contacts
-David Zelený (lecturer), Associate Professor at National Taiwan University, Taiwan; zeleny@ntu.edu.tw, @zdealveindy
-
-Sergey Rosbakh (lecturer), PostDoc at the University of Regensburg, Germany; sergey.rosbakh@ur.de, @SRosbakh
-
-Po-Yu Lin (technical assistant): graduated with Master's degree from National Taiwan University, Taiwan; flutter925517@gmail.com, @payo086
+  * David Zelený (lecturer), Associate Professor at National Taiwan University, Taiwan; zeleny@ntu.edu.tw, @zdealveindy
+  * Sergey Rosbakh (lecturer), PostDoc at the University of Regensburg, Germany; sergey.rosbakh@ur.de, @SRosbakh
+  * Po-Yu Lin (technical assistant): graduated with Master's degree from National Taiwan University, Taiwan; flutter925517@gmail.com, @payo086
