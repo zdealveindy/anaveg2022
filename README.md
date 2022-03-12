@@ -1,17 +1,20 @@
+![](anaveg2022_logo_2.jpg "Title")
+
+
 # #AnaVeg2022: Analysis of vegetation ecology data in R: ordination, clustering, diversity and traits
 ### An online workshop organized by the IAVS Young Scientists Working Group  
 
 &nbsp;
 
-**Instructors:** David Zelený & Sergey Rosbakh  
-**Technical Assistant:** Po-Yu Lin 林柏佑
+**Instructors:** David Zelený (Taiwan) & Sergey Rosbakh (Germany)  
+**Technical Assistant:** Po-Yu Lin 林柏佑 (Taiwan)
 
 **Dates:** April 2022 (five Saturdays, each lecture 3-hours long, 11:00-14:00 UTC - [check time at your location](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AnaVeg2022&iso=20220402T11&p1=1440&ah=3))
 
 &nbsp;
 
 ### Workshop overview
-This online workshop focuses on commonly used methods for the analysis of vegetation data, including ordination, classification, analysis of diversity and traits. We will provide brief theoretical background, demonstrate how to use these methods in R, how to read the R output and correctly interpret it, what are the common mistakes and how to avoid them. We will combine brief theoretical parts, which will introduce the concept behind each method, with practical examples using real vegetation datasets. All course materials will be available online. Lectures will be provided live on Zoom, with possibility for direct interactions between lecturers and participants. Each lecture will be also recorded, and the recording will be available to registered participants for further review.
+This online workshop focuses on commonly used methods for the analysis of vegetation data, including ordination, classification, analysis of diversity and traits. We will provide brief theoretical background, demonstrate how to use these methods in R, how to read the R output and correctly interpret it, what are the common mistakes and how to avoid them. We will combine brief theoretical parts, which will introduce the concept behind each method, with practical examples using real vegetation datasets. All course materials will be available online. Lectures will be provided live on Zoom, with possibility for direct interactions between lecturers, assistant and participants. Each lecture will be also recorded, and the recording will be available to registered participants for further review.
 
 Active attendees who succeeded to complete the course (with score > 70%) will obtain a Course Certificate issued by the IAVS and signed by instructors.
 
@@ -48,15 +51,15 @@ The workshop consists of five lecture blocks during April's Saturdays, each 3 ho
 
 Date (2022) |Content of the lecture | Lecturer                                                 
 ------------|---------------------|--------- 
-April 2, 11-14 UTC     |Introduction, sampling designs, types of data, overview of analyses        |David Zelený
-April 9, 11-14 UTC     |Unconstrained and constrained ordination (PCA, DCA, RDA, CCA, tb-RDA, NMDS)|David Zelený
-April 16, 11-14 UTC    |Cluster analysis, case studies (TWINSPAN, hclust, fidelity measures)       |David Zelený
-April 23, 11-14 UTC    |Analysis of diversity (diversity indices, rarefaction using iNEXT package  |David Zelený
-April 30, 11-14 UTC    |                                                                           |Sergey Rosbakh
+April 2, 11-14 UTC     |Introduction, types of data, ecological similarity and introduction to ordination        |David Zelený
+April 9, 11-14 UTC     |Unconstrained and constrained ordination (PCA, DCA, RDA, CCA, tb-RDA, NMDS) |David Zelený
+April 16, 11-14 UTC    |Classification of data and interpretation (TWINSPAN, hclust, fidelity measures)       |David Zelený
+April 23, 11-14 UTC    |Analysis of diversity (diversity indices, rarefaction and extrapolation using iNEXT package)  |David Zelený
+April 30, 11-14 UTC    |Functional trait analysis in vegetation ecology (PCA and pPCA on trait matrix, considering trait data in ordination (CCA and RDA) and estimating trait-environment relationships (RLQ, fourth corner).                                                                           |Sergey Rosbakh
 
 ### Contacts
-David Zelený (lecturer): zeleny@ntu.edu.tw, @zdealveindy
+David Zelený (lecturer), Associate Professor at National Taiwan University, Taiwan; zeleny@ntu.edu.tw, @zdealveindy
 
-Sergey Rosbakh (lecturer): xxx
+Sergey Rosbakh (lecturer), PostDoc at the University of Regensburg, Germany; sergey.rosbakh@ur.de, @SRosbakh
 
-Po-Yu Lin (technical assistant): flutter925517@gmail.com
+Po-Yu Lin (technical assistant): graduated with Master's degree from National Taiwan University, Taiwan; flutter925517@gmail.com, @payo086
