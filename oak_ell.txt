@@ -1,0 +1,233 @@
+	Ellenberg_Light	Ellenberg_Temperature	Ellenberg_Continentality	Ellenberg_Moisture	Ellenberg_Soil_Reaction	Ellenberg_Nutrients
+Tilicord	5	5	4	5	   	5
+Pinusylv	7	   	7	   	   	   
+Viscalbu	7	6	3	   	   	   
+Querrobu	7	6	6	   	   	   
+Acercamp	5	6	4	5	7	6
+Carpbetu	4	6	4	   	   	   
+Sorbtorm	4	7	4	4	7	4
+Queragg	6	6	2	5	   	   
+Acerplat	4	6	4	   	   	   
+Lonixylo	5	6	4	5	7	6
+Rubuagg						
+Coryavel	6	5	3	   	   	5
+Cornmas	6	7	4	4	8	4
+Rosaspec						
+Cratlaev	6	6	4	5	7	5
+Sorbdanu	6	6	4	3	8	3
+Cratspec						
+Liguvulg	7	6	3	4	8	3
+Tiliplat	4	6	2	6	   	7
+Euonverr	5	6	8	4	7	3
+Prunaviu	4	5	4	5	7	5
+Hierpilo	7	   	3	4	   	2
+Anthramo	7	5	4	3	7	3
+Galelada	8	5	5	4	8	3
+Hierlaev	7	5	3	5	2	2
+Seneagg						
+Cephdama	3	6	2	4	7	4
+Galelat	7	   	3	5	   	6
+Galiodor	2	5	2	5	6	5
+Dryomas	3	   	3	5	5	6
+Caredigi	3	   	4	5	   	4
+Brombene	5	5	4	5	7	5
+Epilmont	4	   	3	5	6	6
+Euphcypa	8	   	4	3	   	3
+Camppers	5	5	4	4	8	3
+Caremont	5	   	4	4	6	3
+Polyodor	7	5	5	3	7	3
+Veroagg	6	   	   	5	   	   
+Anemspec						
+Fragmosc	6	6	4	5	6	6
+Violmira	4	5	4	5	8	   
+Violhirt	6	5	5	3	8	3
+Galilat						
+Caremich	7	6	5	3	6	3
+Vinchiru	6	5	5	3	7	3
+Violreic	4	   	4	5	7	6
+Sanieuro	4	5	3	5	8	6
+Verooffi	6	   	3	4	3	4
+Meliunif	3	5	2	5	6	6
+Cytinigr	6	6	5	4	6	2
+Genitinc	8	6	3	6	6	1
+Hypeperf	7	6	5	4	6	4
+Melaprat	   	   	3	   	3	2
+Hylomaxi	8	6	4	3	5	3
+Hierumbe	6	6	   	4	4	2
+Luzuluzu	4	   	4	5	3	4
+Galirotu	2	5	2	5	5	4
+Galepube	7	5	4	5	   	6
+Agrocapi	7	   	3	   	4	4
+Ajugrept	6	   	2	6	6	6
+Impaparv	4	6	5	5	   	6
+Torijapo	6	6	3	5	8	8
+Hiersaba	5	6	3	4	4	2
+Allioler	7	6	4	3	7	4
+Ajuggene	8	   	   	3	7	2
+Melimeli	5	7	2	4	6	3
+Senevisc	8	6	4	3	   	4
+Hypemont	5	6	4	4	7	3
+Calaepig	7	5	7	   	   	6
+Calaarun	6	5	4	5	4	5
+TaraRude	7	   	   	5	   	8
+Lapscomm	5	6	3	5	   	7
+Platbifo	6	   	3	5	7	   
+Fragvesc	7	   	5	5	   	6
+Urtidioi	   	   	   	6	7	9
+Glechede	6	6	3	6	   	7
+Falldume	6	6	4	5	   	7
+Violcoll	6	5	7	3	8	2
+Festhete	5	6	4	4	5	5
+Stelholo	5	6	3	5	6	5
+Lathvern	4	6	4	5	8	4
+Bracpinn	6	5	5	4	7	4
+Poaangu	7	6	   	   	   	3
+Myossylv	6	   	3	5	   	7
+Polyvulg	5	5	3	4	2	2
+Vicisepi	   	   	5	5	6	5
+Verbaust						
+Allipeti	5	6	3	5	7	9
+Careagg						
+Galipycn						
+Aspltric	5	   	3	5	   	3
+Galivald	8	6		4	6	3
+Pyrecory	6	7	5	4	7	4
+Hiermuro	4	   	3	5	5	4
+Festpall	9	7	4	2	8	1
+Maiabifo	3	   	6	5	3	3
+Digigran	7	4	4	5	5	5
+Carehumi	7	6	5	2	8	3
+Hierschm	8	6	2	4	2	1
+Geumurba	4	5	5	5	   	7
+Festovin	7	   	3	   	3	1
+Primveri	7	   	3	4	8	3
+Melinuta	4	   	3	4	   	3
+Hierlach	5	5	   	4	4	2
+Vaccmyrt	5	   	5	   	2	3
+Pulmmoll	5	5	4	5	8	5
+Gerarobe	5	   	3	   	   	7
+Senegerm						
+Carepilo	4	6	5	5	5	5
+Fallspec						
+Hepanobi	4	6	4	4	7	5
+Poanemo	5	   	5	5	5	4
+Lathnige	5	6	4	3	7	3
+Cardaren	9	   	4	4	6	2
+Scronodo	4	5	3	6	6	7
+Galisylv	5	5	4	5	6	5
+Camprotu	7	5	   	   	   	2
+Moehtrin	4	5	3	5	6	7
+Silenuta	7	   	5	3	7	3
+Lychvisc	7	6	4	3	4	2
+Dactpoly	5	6	4	5	6	5
+Convmaja	5	   	3	4	   	4
+Mycemura	4	6	2	5	   	6
+Trifalpe	7	6	4	3	6	3
+Sedurefl	7	5	4	2	5	1
+Genigerm	7	5	4	4	2	2
+Seneovat	7	   	4	5	   	8
+Cyclpurp	4	6	4	5	9	5
+Camprapu	6	6	4	4	7	4
+Genipilo	7	5	4	   	2	1
+Hierspec						
+Jasimont	7	6	3	3	3	2
+Knaudrym						
+Asareuro	3	6	5	5	7	6
+Clinvulg	7	   	3	4	7	3
+Luzuagg	7	   	3	4	3	3
+Luzumult	7	   	4	5	5	3
+Hedeheli	4	5	2	5	   	   
+Callvulg	8	   	3	   	1	1
+Galialbu	7	   	3	5	7	5
+Galiapar	7	6	3	   	6	8
+Careprae						
+Koelmacr	7	6	7	3	8	2
+Desccesp	6	   	   	7	   	3
+Myosramo	9	6	5	2	7	1
+Trifarve	8	6	3	3	2	1
+Verodill	8	7	6	2	5	2
+Dryodila	4	   	3	6	   	7
+Asplsept	8	   	4	3	2	2
+Allimont	9	   	5	2	6	2
+Luzupilo	2	   	3	5	5	4
+Galemont	3	4	5	6	7	6
+Cotointe	8	   	4	3	7	2
+Carehirt	7	6	3	6	   	5
+Carepall	7	4	3	6	4	3
+Carepilu	5	   	2	5	3	3
+Achiagg						
+Linageni						
+Oxalacet	1	   	3	5	4	6
+Rumeacet	8	5	3	3	2	2
+Anthsylv	7	   	5	5	   	8
+Solivirg	5	   	   	5	   	4
+Secacere						
+Milieffu	4	   	3	5	5	5
+Agrovine	9	7	3	2	2	1
+Orobspec						
+Pulmobsc	4	5	6	6	8	7
+Orobcary	8	6	5	3	9	2
+Mercpere	2	   	3	   	8	7
+Violrivi	5	   	3	4	4	   
+Holclana	7	6	3	6	   	5
+Lysinumm	4	6	4	6	   	   
+Euphamyg	4	5	3	5	8	5
+Chamsupi	7	6	4	3	   	1
+Avenflex	6	   	2	   	2	3
+Hiermacu	5	7	4	4	5	2
+Anemnemo	   	   	3	5	   	   
+Allivine	5	7	3	4	   	7
+Crucglab	7	6	4	5	7	5
+Verboffi	9	6	3	5	7	7
+Violspec						
+Galespec						
+Impatang	4	5	5	7	7	6
+Platspec						
+Camptrac	4	   	3	6	8	8
+Hierrace	7	6	4	4	5	2
+Pulmoffi	5	6	5	5	8	6
+Bracsylv	3	5	3	5	6	6
+Rubuspec						
+Luzudivu						
+Carecurv						
+Alliflav						
+Hiercymo	7	6	5	3	8	2
+Anthodor	   	   	   	   	5	   
+Buplfalc	6	6	6	3	9	3
+Arabthal	6	6	3	4	4	4
+Melaarve	7	7	5	4	8	3
+Euphdulc	4	5	2	5	8	5
+Fallconv	7	6	   	5	   	6
+Vicipisi	6	7	4	4	8	3
+Cytiscop	8	5	2	4	3	4
+Chenpoly	6	6	4	6	   	8
+Elytinte	7	6	6	3	7	3
+Ribecris	4	5	2	   	   	6
+Euphspec						
+Epiphell	3	5	3	5	7	5
+Acinarve	9	6	3	2	5	1
+Dentbulb	3	5	4	5	7	6
+Symptube	4	   	4	6	7	5
+Dictalbu	7	8	4	3	8	2
+Polymult	2	   	5	5	6	5
+Filaarve	8	7	5	3	4	2
+Chaetemu	5	6	3	5	   	8
+Vicihirs	7	6	5	4	   	4
+Verovind	7	6	4	3	8	3
+Allispec						
+Silevulg	8	   	   	4	7	4
+Epilspec						
+Carecary	8	   	3	4	   	2
+Galipumi	7	5	2	4	4	2
+Peuccerv	7	6	4	3	7	3
+Chenpedu						
+Pimpsaxi	7	   	5	3	   	2
+Galebifi	7	5	5	5	6	6
+Sclepere	8	6	4	2	4	1
+Festrubr	   	   	5	6	6	   
+Astrglyc	6	6	4	4	7	3
+Thympule	8	   	4	4	   	1
+Cardimpa	5	   	4	6	7	8
+Teuccham	7	6	4	2	8	1
+Verocham	6	   	   	5	   	   
+Carechab						
