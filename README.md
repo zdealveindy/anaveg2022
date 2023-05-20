@@ -6,7 +6,7 @@
 
 &nbsp;
 
-**Instructors:** David Zelený (Taiwan) & Sergey Rosbakh (Germany)  
+**Instructors:** David Zelený (Taiwan)
 **Teaching Assistant:** Po-Yu Lin 林柏佑 (Taiwan)
 
 **Dates:** April 2022 (five Saturdays, each lecture 3-hours long, 11:00-14:00 UTC - [check time at your location](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AnaVeg2022&iso=20220402T11&p1=1440&ah=3))
@@ -56,9 +56,8 @@ April 2, 11-14 UTC     |Introduction, types of data, ecological similarity and i
 April 9, 11-14 UTC     |Unconstrained and constrained ordination (PCA, DCA, RDA, CCA, tb-RDA, NMDS) |David Zelený
 April 16, 11-14 UTC    |Classification of data and interpretation (TWINSPAN, hclust, fidelity measures)       |David Zelený
 April 23, 11-14 UTC    |Analysis of diversity (diversity indices, rarefaction and extrapolation using iNEXT package)  |David Zelený
-April 30, 11-14 UTC    |Functional trait analysis in vegetation ecology (PCA and pPCA on trait matrix, considering trait data in ordination (CCA and RDA) and estimating trait-environment relationships (RLQ, fourth corner).                                                                           |Sergey Rosbakh
+April 30, 11-14 UTC    |Practicing all types of analyses.                                                                           |David Zelený
 
 ### Contacts
   * David Zelený (lecturer), Associate Professor at National Taiwan University, Taiwan; zeleny@ntu.edu.tw, @zdealveindy
-  * Sergey Rosbakh (lecturer), PostDoc at the University of Regensburg, Germany; sergey.rosbakh@ur.de, @SRosbakh
   * Po-Yu Lin (teaching assistant): graduated with Master's degree from National Taiwan University, Taiwan; flutter925517@gmail.com, @payo086
