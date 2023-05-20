@@ -7,6 +7,7 @@
 &nbsp;
 
 **Instructors:** David Zelený (Taiwan)
+
 **Teaching Assistant:** Po-Yu Lin 林柏佑 (Taiwan)
 
 **Dates:** April 2022 (five Saturdays, each lecture 3-hours long, 11:00-14:00 UTC - [check time at your location](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AnaVeg2022&iso=20220402T11&p1=1440&ah=3))
